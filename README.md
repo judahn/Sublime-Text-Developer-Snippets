@@ -2,6 +2,7 @@ Sublime Text: Developer Snippets
 ==================================
 
 Programming shortcuts for Sublime Text
+--------------------------------------
 
 ### HTML
 list    = ul > li  
