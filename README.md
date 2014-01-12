@@ -1,4 +1,4 @@
-Judah-Nagler-Sublime-Text-Snippets
+Sublime Text - Developer Snippets
 ==================================
 
 Programming shortcuts for Sublime Text
