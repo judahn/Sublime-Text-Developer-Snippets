@@ -3,7 +3,9 @@ Sublime Text: Developer Snippets
 
 Programming shortcuts for Sublime Text
 
-cns     = console.log("$1");  
+##HTML
 list    = ul > li  
 olist   = ol > li  
- 
+
+##JS  
+cns     = console.log("$1");   
