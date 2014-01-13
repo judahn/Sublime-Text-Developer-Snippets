@@ -1,7 +1,7 @@
 Sublime Text: Developer Snippets
 ==================================
 
-**ʕ•ᴥ•ʔ Programming shortcuts for Sublime Text by [Judah Nagler](http://github.com/judahn)**
+**Programming shortcuts for Sublime Text by [Judah Nagler](http://github.com/judahn) ʕ•ᴥ•ʔ**
 
 #### HTML
 list 	= ul > li  
