@@ -1,5 +1,6 @@
-ʕ•ᴥ•ʔ Sublime Text: Developer Snippets
-======================================
+ʕ•ᴥ•ʔ  
+=====
+#Sublime Text: Developer Snippets
 
 **Programming shortcuts for Sublime Text by [Judah Nagler](http://github.com/judahn)**
 
