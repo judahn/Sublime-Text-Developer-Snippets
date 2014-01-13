@@ -1,11 +1,11 @@
 Sublime Text: Developer Snippets
 ==================================
 
-#### Programming shortcuts for Sublime Text by [Judah Nagler](http://github.com/judahn), 2013  
+### Programming shortcuts for Sublime Text by [Judah Nagler](http://github.com/judahn)
 
-### HTML
+#### HTML
 list 	= ul > li  
 olist 	= ol > li  
 
-### JS  
+#### JS  
 cns     = console.log("$1");   
