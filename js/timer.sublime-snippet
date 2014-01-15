@@ -4,7 +4,7 @@ var _timer;
 function startTimer() {
 	_timer = setTimeout( function(){
 		$1
-	}, $2:3000);
+	}, ${2:3000});
 }
 function stopTimer() {
 	clearTimeout(_timer);
